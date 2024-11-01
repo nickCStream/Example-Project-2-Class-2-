@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_Door_Interactable.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/ExampleInterface2.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_Button.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/OpenInterface.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_Door_AutoOpen.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/FirstPersonBP/Maps/ExampleBPScene.umap",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_Mud.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_Spikes.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_OutOfBoundChecker.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Levels/L_Example.umap",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/L_ExampleBP2.umap",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_TargetPoint.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_Collectibles.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_PowerUp.uasset",
+				"C:/Users/Bubba/Desktop/Example Project 2/Content/Blueprints/BP_Pendulum.uasset"
+			]
+		}
+	]
+}
